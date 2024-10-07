@@ -1,4 +1,4 @@
-# Quantium Data Analytics Job Simulation - October 2024
+# Quantium Data Analytics Job Simulation 📚🚀
 
 🎯 **Project Overview**  
 This repository contains the work completed during the Quantium Data Analytics Job Simulation on Forage. The project focused on customer analytics and delivering data-driven commercial insights to support strategic decision-making for the data science team.

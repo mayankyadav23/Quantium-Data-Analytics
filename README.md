@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5ce05dda-6d3e-43d7-8b10-efd100ca5224)# Quantium Data Analytics Job Simulation 📚🚀
+# Quantium Data Analytics Job Simulation 📚🚀
 
 🎯 **Project Overview**  
 This repository contains the work completed during the Quantium Data Analytics Job Simulation on Forage. The project focused on customer analytics and delivering data-driven commercial insights to support strategic decision-making for the data science team.
